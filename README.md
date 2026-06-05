@@ -4,8 +4,8 @@ I'm a first-year university student in Belgium, passionate about software develo
 In my eyes, the best way to learn something new is by just trying and figuring things out along the way.
 
 ### Tech Stack & Tools
-- **Languages:** Python, C
-- **Dev Tools:** Git, GitHub
+- **Languages:** Python, C, CPP
+- **Dev Tools:** Git, GitHub, QT
 - **Creative Tools:** Adobe Premiere Pro, Adobe After Effects
 
 ### Currently Learning
