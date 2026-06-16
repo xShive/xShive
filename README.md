@@ -4,13 +4,12 @@ I'm a first-year university student in Belgium, passionate about software develo
 In my eyes, the best way to learn something new is by just trying and figuring things out along the way.
 
 ### Tech Stack & Tools
-- **Languages:** Python, C, CPP
+- **Languages:** Python, (C, C++)
 - **Dev Tools:** Git, GitHub, QT
-- **Creative Tools:** Adobe Premiere Pro, Adobe After Effects
+- **Creative Tools:** Adobe Premiere Pro, Adobe After Effects, Adobe Photoshop
 
 ### Currently Learning
-- C++ (University)
-- JavaScript (and basic HTML/CSS)
+- HTML, CSS, JS
 
 ### How to reach me
 - **Email:** lars.verbeek@outlook.com
