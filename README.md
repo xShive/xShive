@@ -22,5 +22,4 @@ In my eyes, the best way to learn something new is by just trying and figuring t
 - Figma
 
 ### How to reach me
-- **Email:** lars.verbeek@outlook.com
 - **Discord:** @xshive
